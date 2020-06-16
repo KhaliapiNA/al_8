@@ -1,0 +1,9 @@
+C:\Documents and Settings\adm\Рабочий стол\al_8\al_8\bin\Debug\al_8.exe
+C:\Documents and Settings\adm\Рабочий стол\al_8\al_8\bin\Debug\al_8.pdb
+C:\Documents and Settings\adm\Рабочий стол\al_8\al_8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\adm\Рабочий стол\al_8\al_8\obj\x86\Debug\al_8.exe
+C:\Documents and Settings\adm\Рабочий стол\al_8\al_8\obj\x86\Debug\al_8.pdb
+D:\github to\al_8\al_8\al_8\obj\x86\Debug\al_8.exe
+D:\github to\al_8\al_8\al_8\obj\x86\Debug\al_8.pdb
+D:\github to\al_8\al_8\al_8\bin\Debug\al_8.exe
+D:\github to\al_8\al_8\al_8\bin\Debug\al_8.pdb
